@@ -1,4 +1,4 @@
-module kr-consul
+module kr-casbin
 
 go 1.19
 
